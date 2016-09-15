@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://jflh.ca" 
+url: "http://www.jflh.ca" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Site settings
@@ -48,7 +48,7 @@ footer-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "jflh.ca"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "www.jflh.ca"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 
