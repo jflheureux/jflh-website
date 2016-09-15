@@ -4,13 +4,13 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://www.jflh.ca" 
+url: "https://www.jflh.ca" 
 baseurl: "" # the subpath of your site, e.g. /blog/
 
 # Site settings
 
 # Name of website
-title: <Keep Calm and Write Code/>
+title: Keep Calm and Write Code
 
 # Short description of your site
 description: Jean-François L'Heureux's blog.
