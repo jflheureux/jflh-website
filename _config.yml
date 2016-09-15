@@ -10,7 +10,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 # Site settings
 
 # Name of website
-title: Keep Calm and Write Code
+title: <Keep Calm and Write Code/>
 
 # Short description of your site
 description: Jean-François L'Heureux's blog.
@@ -91,7 +91,6 @@ exclude:
   - Gemfile.lock
   - LICENSE
   - README.md
-  - CNAME
 
 # prose.io config
 prose:
