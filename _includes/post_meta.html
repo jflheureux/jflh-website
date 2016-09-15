@@ -1,0 +1,10 @@
+<p class="post-meta">
+  Posted on {{ include.post.date | date: "%B %-d, %Y" }}
+</p>
+
+{% if include.post.tags.size > 0 %}
+<p class="post-meta">
+  Tag{% if include.post.tags.size > 1 %}s{% endif %}:
+  {{ include.post.tags | sort | join: ", " }}
+</p>
+{% endif %}
