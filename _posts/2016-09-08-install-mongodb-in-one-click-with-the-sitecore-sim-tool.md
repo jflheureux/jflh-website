@@ -3,7 +3,7 @@ title: Install MongoDB in One Click with the Sitecore SIM Tool
 tags: [Sitecore, SIM Tool, MongoDB]
 ---
 
-The SIM Tool is packed with a lot of nice utilities. One of them is the ability to install MongoDB with only one click. It is very useful on a new development machine to get up and running in no time.
+The [SIM Tool](http://dl.sitecore.net/updater/sim/) is packed with a lot of nice utilities. One of them is the ability to install MongoDB with only one click. It is very useful on a new development machine to get up and running in no time.
 
 <!-- more -->
 
