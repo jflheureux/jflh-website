@@ -7,7 +7,7 @@ The [SIM Tool](http://dl.sitecore.net/updater/sim/) is packed with a lot of nice
 
 <!-- more -->
 
-![SIM Tool screenshot]({{ site.url }}{{ site.baseurl }}/img/2016-09-08-install-mongodb-in-one-click-with-the-sitecore-sim-tool/InstallMongoDB.png)
+![SIM Tool screenshot]({{ '/img/2016-09-08-install-mongodb-in-one-click-with-the-sitecore-sim-tool/InstallMongoDB.png' | absolute_url }})
 
 1. Select the __Home__ tab
 2. Click the __Bundled Tools__ ribbon button

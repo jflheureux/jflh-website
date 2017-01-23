@@ -4,7 +4,7 @@ tags: [Sitecore, SIM Tool]
 ---
 I was on an airplane and tried to run the SIM Tool. To my surprise, I was greated with this error:
 
-![SIM Tool error screenshot]({{ site.url }}{{ site.baseurl }}/img/2016-07-22-run-sitecore-sim-tool-offline/SIMToolError.png)
+![SIM Tool error screenshot]({{ '/img/2016-07-22-run-sitecore-sim-tool-offline/SIMToolError.png' | absolute_url }})
 
 <!-- more -->
 

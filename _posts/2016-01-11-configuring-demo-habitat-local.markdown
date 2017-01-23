@@ -4,7 +4,7 @@ tags: Sitecore Habitat
 ---
 After following all the steps to [setup Sitecore Habitat][setupHabitat] on a local machine, there are 2 site root items in the `\sitecore\Content\` node of the Sitecore content tree: Habitat and Demo.
 
-![Habitat and Demo site root items]({{ site.url }}{{ site.baseurl }}/img/2016-01-11-configuring-demo-habitat-local/two-site-root.png)
+![Habitat and Demo site root items]({{ '/img/2016-01-11-configuring-demo-habitat-local/two-site-root.png' | absolute_url }})
 
 <!-- more -->
 
@@ -27,18 +27,18 @@ However, loading [http://demo.habitat.local/][demoHabitatLocal] is failing becau
 
 2. An IIS binding for demo.habitat.local:
 
-   1. In IIS Manager, right-click on the Habitat.local website ![Habitat.local website in IIS]({{ site.url }}{{ site.baseurl }}/img/2016-01-11-configuring-demo-habitat-local/iis-site.png) and select "Edit Bindings...".
+   1. In IIS Manager, right-click on the Habitat.local website ![Habitat.local website in IIS]({{ '/img/2016-01-11-configuring-demo-habitat-local/iis-site.png' | absolute_url }}) and select "Edit Bindings...".
 
-      ![demo.Habitat.local page]({{ site.url }}{{ site.baseurl }}/img/2016-01-11-configuring-demo-habitat-local/before-demo.png)
+      ![demo.Habitat.local page]({{ '/img/2016-01-11-configuring-demo-habitat-local/before-demo.png' | absolute_url }})
 
    2. Click the "Add..." button.
    3. Enter "demo.Habitat.local" in the "Host name" field.
 
-      ![demo.Habitat.local page]({{ site.url }}{{ site.baseurl }}/img/2016-01-11-configuring-demo-habitat-local/adding-demo.png)
+      ![demo.Habitat.local page]({{ '/img/2016-01-11-configuring-demo-habitat-local/adding-demo.png' | absolute_url }})
 
    4. Click the "OK" buton.
 
-      ![demo.Habitat.local page]({{ site.url }}{{ site.baseurl }}/img/2016-01-11-configuring-demo-habitat-local/after-demo.png)
+      ![demo.Habitat.local page]({{ '/img/2016-01-11-configuring-demo-habitat-local/after-demo.png' | absolute_url }})
 
    5. Click the "Close" button.
 

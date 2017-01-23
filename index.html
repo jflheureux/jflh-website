@@ -2,12 +2,12 @@
 layout: page
 ---
 
-<img class="center-block" src="{{ '/img/title.png' | prepend: site.baseurl | prepend: site.url }}" alt="Keep Calm and Write Code" />
+<img class="center-block" src="{{ '/img/title.png' | absolute_url }}" alt="Keep Calm and Write Code" />
 
 <div class="posts-list">
   {% for post in paginator.posts %}
   <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl }}">
+    <a href="{{ post.url | absolute_url }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
 
 	  {% if post.subtitle %}
@@ -27,10 +27,10 @@ layout: page
       {{ post.tags | sort | join: ", " }}
     </p>
     {% endif %}
- 
+
     <div class="post-entry">
       {{ post.excerpt }}
-	  <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+	  <a href="{{ post.url | absolute_url }}" class="post-read-more">[Read&nbsp;More]</a>
     </div>
 
    </article>
@@ -41,12 +41,12 @@ layout: page
 <ul class="pager main-pager">
   {% if paginator.previous_page %}
   <li class="previous">
-    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    <a href="{{ paginator.previous_page_path | absolute_url }}">&larr; Newer Posts</a>
   </li>
   {% endif %}
   {% if paginator.next_page %}
   <li class="next">
-    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    <a href="{{ paginator.next_page_path | absolute_url }}">Older Posts &rarr;</a>
   </li>
   {% endif %}
 </ul>
