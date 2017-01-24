@@ -1,5 +1,5 @@
 ---
-title: Corrupted Sitecore Instance Manager Export When WFFM is Installed
+title: Corrupted Sitecore Instance Manager Export When WFFM Is Installed
 tags: [Sitecore, SIM Tool, WFFM]
 ---
 
