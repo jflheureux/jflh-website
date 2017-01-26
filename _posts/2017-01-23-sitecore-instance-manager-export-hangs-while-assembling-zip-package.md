@@ -11,4 +11,4 @@ After trial and error, I discovered it was likely a security access issue and th
 
 ## Solution
 
-The solution for me was to specify `C:\inetpub\wwwroot\` as the export folder. It works because the SIM Tool is already granted full access to this folder at installation time.
+The solution is to specify the SIM Tool "Instances Root Folder" or one of its subfolder as the export folder. For me, it is `C:\inetpub\wwwroot\`. It works because the SIM Tool is already granted full access to this folder at installation time.
