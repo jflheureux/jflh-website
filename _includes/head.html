@@ -1,14 +1,26 @@
+{% if page.title %}
+  {% assign title = page.title %}
+{% elsif site.title %}
+  {% assign title = site.title %}
+{% endif %}
+
+{% if page.subtitle %}
+  {% assign description = page.subtitle %}
+{% elsif site.description %}
+  {% assign description = site.description %}
+{% endif %}
+
 <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+  <title>{{ title }}</title>
 
   <meta name="author" content="{{ site.author.name }}" />
-
-  {% if page.subtitle %}
-  <meta name="description" content="{{ page.subtitle }}">
+  
+  {% if description %}
+  <meta name="description" content="{{ description }}">
   {% endif %}
 
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }} - {{ site.description }}" href="{{ 'feed.xml' | absolute_url }}" />
@@ -50,8 +62,11 @@
   {% endif %}
 
   <!-- Facebook OpenGraph tags -->
-  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
+  <meta property="og:title" content="{{ title }}" />
   <meta property="og:type" content="website" />
+  {% if description %}
+  <meta property="og:description" content="{{ description }}">
+  {% endif %}
 
   {% if page.id %}
   <meta property="og:url" content="{{ page.url | absolute_url }}/" />
@@ -65,5 +80,16 @@
   <meta property="og:image" content="{{ site.avatar | absolute_url }}" />
   {% else %}
   <meta property="og:image" content="" />
+  {% endif %}
+  
+  <meta property="twitter:title" content="{{ title }}" />
+  <meta property="twitter:type" content="website" />
+  <meta property="twitter:type" content="website" />
+  <meta property="twitter:type" content="website" />
+  {% if description %}
+  <meta property="twitter:description" content="{{ description }}">
+  {% endif %}
+  {% if site.author.twitter %}
+  <meta property="twitter:creator" content="@{{ site.author.twitter }}/" />
   {% endif %}
 </head>
