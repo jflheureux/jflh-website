@@ -15,6 +15,9 @@ title: Keep Calm and Write Code
 # Short description of your site
 description: Jean-François L'Heureux's blog.
 
+# Default site keywords
+keywords: blog,development,jekyll,jflh,jflheureux,sitecore
+
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
@@ -53,7 +56,7 @@ url-pretty: "www.jflh.ca"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "jflhdotca"
+disqus: # Disabled Disqus due to ads coming
 
 # Fill in your Google Analytics ID to track your website using GA
 google_analytics: "UA-72299518-1"
