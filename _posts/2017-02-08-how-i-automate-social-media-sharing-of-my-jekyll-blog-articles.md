@@ -67,14 +67,14 @@ I need one RSS feed per social media site, so I created a `sharing_feed.xml` fil
 The important parts are:
 
 * The use of the `page.sharing_site` variable which contains the social media site of the current RSS feed.
-* The `posts` variable I assign to only the subset of posts I want to share on that social media site.
-* The `limit:5` of the `for` loop to limit the size of the RSS feed to a minimum. I don't plan to create more than 5 posts in a 15 minutes timeframe (IFTTT recipes run every 15 minutes).
-* The `<title>` of RSS items contains the text to share on the social media site.
-* The `<link>` of RSS items contains the link to your blog post to share on the social media site.
+* The `posts` variable I assign to only the subset of posts I want to share on that specific social media site.
+* The `limit:5` on the `for` loop to limit the size of the RSS feed to a minimum. I don't plan to create more than 5 posts in a 15 minutes timeframe (IFTTT applets run every 15 minutes).
+* The `<title>` of RSS items contains the text to share.
+* The `<link>` of RSS items contains the link to the blog post to share.
 
-## Create the Feeds
+## Create the RSS Feeds
 
-Creating the feeds is very easy with this layout. I created one file per social media site. The `sharing_site` front matter variable value need to match the post front matter variable names.
+Creating the RSS feeds is very easy with this layout. I created one file per social media site. The `sharing_site` front matter variable value need to match the post front matter variable names.
 
 ### Twitter.xml
 {% highlight yaml %}
