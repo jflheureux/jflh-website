@@ -6,7 +6,7 @@ sharing:
   linkedin: Going to SUGCON EU next week. We may meet at those presentations I'm going to attend.
 ---
 
-[Sitecore User Group Conference (SUGCON) Europe](http://www.sugcon.eu) starts in less than a week. The speaker lineup and the presentations is incredible. This is a very good opportunity to meet other community leaders and experienced Sitecore developers.
+[Sitecore User Group Conference (SUGCON) Europe](http://www.sugcon.eu) starts in less than a week. The speaker lineup and the presentations are incredible. This is a very good opportunity to meet other community leaders and experienced Sitecore developers.
 
 I'm very excited because it will be the first time I go to this edition. I have been to the North America one in 2015. I will also receive my Sitecore MVP award during the event.
 
@@ -30,7 +30,7 @@ Integration and acceptance tests for web projects are hard. This is something I 
 
 ### 16:50
 
-I hesitate between 2 presentation for this time slot. Both seems interesting. I will decide at the last minute.
+I hesitate between 2 presentation for this time slot. Both seem interesting. I will decide at the last minute.
 
 #### Sitecore Helix Fast track - by Anders Laub
 
@@ -46,7 +46,7 @@ As a search specialist, I like to see new innovative solutions. Conjunction is a
 
 #### Use Roslyn to validate your Sitecore code and data - by Robin Hermanussen
 
-Programmer tools like Resharper are invaluable. Robin's idea to create new tools specific to Sitecore with Roslyn is great. This presentation will give me ideas for new tools.
+Programmer tools like Resharper are invaluable. Robin's idea to create new tools for Sitecore with Roslyn is great. This presentation will give me ideas for new tools.
 
 ### 12:40
 
@@ -64,7 +64,7 @@ One of my current task is to build a demo site and deploy it. I don't have much 
 
 #### Sitecore and ReactJS - by Richard Seal
 
-I have worked with Richard at the last Sitecore Hackathon and he seemed very knowledgeable on using front-end frameworks like Angular with Sitecore. His presentation about React is well timed as I will probably have to use it soon.
+I have worked with Richard at the last Sitecore Hackathon and he seemed very knowledgeable in using front-end frameworks like Angular with Sitecore. His presentation about React is well timed as I will probably have to use it soon.
 
 ### 14:30
 
