@@ -2,7 +2,6 @@
 title: Jean-François L'Heureux Named Sitecore MVP for a Second Year
 tags: [Sitecore, MVP]
 sharing:
-  twitter: I was named Sitecore Technology MVP 2018! Second year in a row. Thanks to all my friends who recommended me. # Max 116 characters
   linkedin: I was named Sitecore Technology MVP 2018! Second year in a row. Thanks to all my friends who recommended me.
 ---
 
