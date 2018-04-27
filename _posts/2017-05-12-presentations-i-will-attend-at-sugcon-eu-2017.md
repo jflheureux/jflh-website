@@ -1,6 +1,6 @@
 ---
 title: Presentations I Will Attend at SUGCON EU 2017
-tags: [Sitecore, Event, SUGCON]
+tags: [Sitecore, Event, SUGCON, Conference]
 sharing:
   twitter: I'm very excited for SUGCON EU next week. Here are the presentations I want to attend. # Max 116 characters
   linkedin: Going to SUGCON EU next week. We may meet at those presentations I'm going to attend.
