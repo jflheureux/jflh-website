@@ -5,9 +5,9 @@ sharing:
   linkedin: I won the JSS category award at the Sitecore Hackathon 2018. Read the full story behind the achievement.
 ---
 
-[![Sitecore Hackathon Logo]({{ '/img/2018-04-27-hackathon/Sitecore-Hackathon-Logo.png' | absolute_url }}){: .center-image }](http://www.sitecorehackathon.org/sitecore-hackathon-2018/)
+![Sitecore Hackathon Logo]({{ '/img/2018-04-27-hackathon/Sitecore-Hackathon-Logo.png' | absolute_url }}){: .center-image }
 
-This year, 74 teams from 25 countries participated to the Sitecore Hackathon 2018. For a third year in a row, I really enjoyed participating to this amazing 24 hours' community event.
+This year, 74 teams from 25 countries participated to the [Sitecore Hackathon 2018](http://www.sitecorehackathon.org/sitecore-hackathon-2018/). For a third year in a row, I really enjoyed participating to this amazing 24 hours' community event.
 
 The winners were announced this week during the Sitecore User Group Conference (SUGCON) Europe to which I was attending. I had the surprise to see my entry selected as the best project in the Sitecore JavaScript Services (JSS) category and had the immense honor to be awarded by the organizer Akshay Sura.
 
