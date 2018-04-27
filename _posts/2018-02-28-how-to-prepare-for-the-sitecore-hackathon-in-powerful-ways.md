@@ -5,11 +5,11 @@ sharing:
   linkedin: Preparation is key. See how to prepare for the Sitecore hackathon in powerful ways!
 ---
 
-[![Sitecore Hackathon Logo]({{ '/img/2018-02-28-hackathon/Sitecore-Hackathon-logo-small.png' | absolute_url }}){: .center-image }](http://www.sitecorehackathon.org/sitecore-hackathon-2018/)
+![Sitecore Hackathon Logo]({{ '/img/2018-02-28-hackathon/Sitecore-Hackathon-logo-small.png' | absolute_url }}){: .center-image }
 
 Preparation is key for a 24 hours hackathon event. You do not want to lose time on setup or tooling. You want to use those precious hours to code and be creative.
 
-In this post, I cover how I prepared for the 2018 Sitecore hackathon.
+In this post, I cover how I prepared for the [2018 Sitecore hackathon](http://www.sitecorehackathon.org/sitecore-hackathon-2018/).
 
 <!-- more -->
 
