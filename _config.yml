@@ -95,6 +95,10 @@ exclude:
   - LICENSE
   - README.md
 
+# Include these files in production site
+include:
+  - _headers
+
 # prose.io config
 prose:
   rooturl: '_posts'
