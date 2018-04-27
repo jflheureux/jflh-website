@@ -1,5 +1,5 @@
 ---
-title: Jean-François L'Heureux Won the Sitecore Hackathon 2018 JSS Category
+title: Jean-François L'Heureux Won the Sitecore Hackathon 2018 JSS Category in Powerful Ways
 tags: [Sitecore, Hackathon, Award]
 sharing:
   linkedin: I won the JSS category award at the Sitecore Hackathon 2018. Read the full story behind the achievement.
