@@ -57,3 +57,7 @@ These services are by default installed in `C:\inetpub\wwwroot\`.
 2. Bootstrap the Commerce services again. This can be done using the Postman collection from the Sitecore Experience Commerce SDK. Follow the steps from Naveed Ahmad blog: [https://naveed-ahmad.com/2018/02/21/sitecore-experience-commerce-xc9-getting-started-with-postman/](https://naveed-ahmad.com/2018/02/21/sitecore-experience-commerce-xc9-getting-started-with-postman/)
 
 > **Note:** You might have to unlock the Sitecore admin account if Sitecore Experience Commerce tried to use its old password too often.
+
+## Credits
+
+Thanks to the Sitecore Slack Community, specifically [Elena Zlateva Mosoff](https://twitter.com/ezlateva), who told me I had to bootstrap again with the new password.
