@@ -61,6 +61,11 @@ By Jason St-Cyr
 
 We are all guardians of the digital spaces our audiences live in. We control what data is collected, how it is used, how it is stored, and potentially how it can be abused. With advancements in machine learning, personalization, and individualization, we are looking at a new world of improved customer experiences. How do we ensure this is done in an ethical way? How do we protect individual privacy? How do we avoid bias in our algorithms? We will explore these questions and others and empower the audience to take ownership of these issues.
 
+### [Where machine learning meets social #ThinkYouKnowMe](https://www.slideshare.net/UnaVerhoeven/where-machine-learning-meets-social-thinkyouknowme)
+By Una Verhoeven
+
+Learn how a social network (Twitter) can be combined with machine learning (ML) and leveraged to enhance the user experience. During the presentation, we'll focus on building an online book store using Sitecore Experience Commerce, SXA, xConnect, Twitter API, IBM Personal Insights, IBM Watson, and PowerBI. Most impactfully, we'll see how companies can produce true business impact through user experience WITHOUT storing a user's personal data (gender, twitter name, location, tweets). Using ML techniques, the trained model will recommend products (in this case, books) for the user. We will explore how users based in the Netherlands may have similar interests and needs as users in the U.S.
+
 
 ## E-commerce Experience
 
@@ -72,10 +77,38 @@ Using Sitecore Experience Commerce (XC) and Sitecore Experience Manager (EXM), w
 
 ## Marketing Strategy, Innovation, and Best Practices
 
-### [Supercharge your author experience with machine learning](https://www.slideshare.net/mobile/MarkStiles6/sitecore-symposium-2018-supercharge-your-author-experience-with-machine-learning)
-By Mark Stiles
+### [Supercharge your author experience with machine learning](https://www.slideshare.net/MarkStiles6/sitecore-symposium-2018-supercharge-your-author-experience-with-machine-learning)
+By Mark Stiles, Daniel Murphy
 
 Content authors face an ever-growing list of new tools and responsibilities that come with a modern digital experience platform. There is mounting pressure for these unsung digital heroes to spend less time fumbling with menu options, assigning taxonomies, or struggling to find the right creative assets and more time identifying segments, setting goals, and personalizating content in an effort to engage consumers. In this session, Sitecore MVPs Mark Stiles and Dan Murphy will introduce practical ways to use machine learning to overcome tedious tasks, use your time more effectively, and focus on high-value work.
+
+### [How Sitecore powers the digital transformation and innovation inside Zurich Insurance](https://www.slideshare.net/DeepakMathews/zurich-insurance-at-sitecore-symposium-2018)
+By  Deepak Mathews, Borja Prado
+
+Zurich Insurance is one of the world's biggest financial services companies in an industry undergoing massive disruption. Sitecore has become the platform of choice for its various functional units, product divisions, and countries looking to digitize their businesses. Join us as we take an in-depth look at innovation and best practices from across the organization including cloud deployments on Azure PaaS, reusable feature store using SXA, headless CMS, e-commerce and omni-channel experiences. We'll also discuss how our innovative architecture enables us to use multiple technology vendors and design agencies to deliver cutting-edge digital customer experiences.
+
+### [Sitecore and Salesforce are better together](https://www.slideshare.net/HeroDigital/sitecore-and-salesforce-better-together)
+By Kristine Stebbins
+
+Personalization is the holy grail for many companies, but it can be elusive to achieve. This session will focus on how to accelerate the power of personalization by integrating Sitecore and Salesforce. In this session, we will provide step-by-step guidance on how to plan and execute an integration between Sitecore and Salesforce that does not only focus on the technical integration but more importantly walks you through the decisions regarding what customer data is captured and shared between the two platforms. Real-world examples will highlight how to share data between the systems and leverage the power of the Salesforce CRM and SFMC to deepen engagement and conversions.
+
+
+## Sitecore Optimization
+
+### [Why aren't you using Sitecore Analytics?](https://www.slideshare.net/HeroDigital/why-arent-you-using-sitecore-analytics-119212178)
+By Kristine Stebbins
+
+Sitecore Analytics are one of the most powerful tools in the Sitecore platform, but as discussed at last year's symposium there are many customers who are not taking advantage of the power of analytics. This session will focus on how customers are taking full advantage of Sitecore analytics and the creative ways they are combining the power of Sitecore analytics with Google analytics. We will share customer stories from the healthcare, manufacturing, and retail sectors providing example dashboards, recommended B.I. layer technology such as Power BI, Tableau, and others to create custom dashboards. This session will also include proprietary research and insights on how customers are using Sitecore analytics to create custom dashboards.
+
+### [Driving digital marketing maturity and customer experience with Sitecore and Salesforce](https://www.slideshare.net/HeroDigital/driving-digital-marketing-maturity-with-sitecore-and-salesforce)
+By Tony Rems
+
+Sitecore sits at the core of your customer experience. However, becoming a mature digital marketing organization requires the integration of customer data and CRM and email and CRM. Sitecore and Salesforce can support driving your customer experiences to the next level. This session will show you how it all fits together and discuss successful strategies for use these technologies to deliver on your business objectives.
+
+### [Finding value in your data: Using Sitecore's Analytics tools to generate business impact](https://www.slideshare.net/MichaelShaw42/sitecore-symposium-2018-getting-value-out-of-your-data)
+By Mike Shaw, Jacqueline Baxter
+
+Sitecore xDB captures a wealth of data; however, sifting through the data and making heads or tails of it can be overwhelming. Join this presentation to learn how to use all the tools of Sitecore XP to identify, hunt down, and formulate a plan of attack for opportunities within your customers. Mike will show you how he uses a combination of Experience Analytics, Path/Page Analyzer, xProfile as well as some lesser known nuggets to truly gain a 360° view of your site and your customers.
 
 
 ## Getting Started
