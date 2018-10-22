@@ -36,6 +36,11 @@ By Bill Cacy, Patrick Perone
 
 From synchronizing content to redirecting incoming Internet traffic, we will perform a live demo of a blue-green deployment. As part of the demo, we will discuss the high-level strategy behind the deployment and dissect the steps performed in Octopus. We will discuss some of the assumptions and limitations of blue-green deployments and the business value for clients.
 
+### [How to go faster: When Sitecore squadrons feel the need for speed](https://www.dropbox.com/s/96lqlrksi2ayi3z/When_sitecore_squadrons_feel_the_need_for_speed-adam_simmonds.pdf?dl=0)
+By Adam Simmonds
+
+Your CMO is demanding exciting new digital customer experiences, so your CIO needs you to fly faster with Sitecore. How can you deliver new features in hours instead of weeks? In this session, we'll cover the best ways to accelerate your development efforts. We’ll explore tried-and-tested tools and methodologies designed for speed, automation, and continuous delivery (think VSTS and Azure). We’ll discuss the best ways to structure your dev squads to maximize collaboration and productivity (and when to go maverick). We’ll also share insights from a recent supersonic mission, which involved delivering a major Sitecore project for an Australian platform business, with only seven months to beat the complex integration and data migration bogeys on our tail and land successfully.
+
 ### [Measure, if you want to go faster](https://jermdavis.wordpress.com/2018/10/11/get-your-sitecore-simposium-slides/)
 By Jeremy Davis
 
@@ -50,6 +55,11 @@ In this session, we'll highlight all the new features being shipped in 9.1.
 By Ishraq Al Fataftah
 
 Technology trends have significantly disrupted the way commerce works. Customers expect a seamless and consistent experience across all channels of the retail process. Omnichannel retailing is providing a more powerful experience that is combining online services such as product pricing comparisons/reviews and in-store kiosks and NFC technology. In this session, we'll explore Sitecore Experience Commerce as an enterprise solution that delivers an integrated, omnichannel personalized experience throughout the customer lifecycle. By leveraging online and offline channels across a single commerce platform, Sitecore is providing the right tools to achieve a personalized customer experience that is relevant to the individual customer and consistent across all points of interaction.
+
+### [Who watches the watchers?](https://theagilecoder.wordpress.com/sym2018/)
+By Jason St-Cyr
+
+We are all guardians of the digital spaces our audiences live in. We control what data is collected, how it is used, how it is stored, and potentially how it can be abused. With advancements in machine learning, personalization, and individualization, we are looking at a new world of improved customer experiences. How do we ensure this is done in an ethical way? How do we protect individual privacy? How do we avoid bias in our algorithms? We will explore these questions and others and empower the audience to take ownership of these issues.
 
 
 ## E-commerce Experience
