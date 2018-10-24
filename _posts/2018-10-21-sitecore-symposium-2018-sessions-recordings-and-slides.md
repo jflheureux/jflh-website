@@ -21,6 +21,11 @@ By Alex Shyba
 
 In this session, you will learn how to go from a "hello world" app to a full-featured, blazing fast progressive web application in under 40 minutes; how to leverage the best tooling of the open source JavaScript ecosystem for your next Sitecore project; and finally, how to leverage content delivery networks to deliver an outstanding user experience for customers worldwide.
 
+### [Working with JSS Gold Master and Marketing Automation](https://www.youtube.com/watch?v=_hyNNQ_Wbjg)
+By Corey Smith, Rick Bauer
+
+Sitecore MVPs Corey Smith and Rick Bauer provide a wide-angle view of JSS and Sitecore Marketing Automation. Focusing on developers, this session provides a high-level understanding of what the end product of Sitecore Marketing Automation should look like from a marketer's perspective based on real-world use cases. Then we'll pop open the hood and show how it was achieved using JSS, including tips, tricks, and lessons learned.
+
 ### [Take your Sitecore project to the next level with Node.js](https://www.codealamodeblog.com/symposium2018/)
 By Anastasiya Flynn
 
@@ -110,6 +115,11 @@ By Mike Shaw, Jacqueline Baxter
 
 Sitecore xDB captures a wealth of data; however, sifting through the data and making heads or tails of it can be overwhelming. Join this presentation to learn how to use all the tools of Sitecore XP to identify, hunt down, and formulate a plan of attack for opportunities within your customers. Mike will show you how he uses a combination of Experience Analytics, Path/Page Analyzer, xProfile as well as some lesser known nuggets to truly gain a 360° view of your site and your customers.
 
+### [Ten Sitecore 9 Form features to increase conversions](https://www.slideshare.net/JainaBaumgartner/ten-sitecore-9-form-features-to-increase-conversions)
+By Jaina Baumgartner, Sai Yerramsetty
+
+Forms are one of the most critical aspects of a website. They are the point of converting anonymous users to qualified leads, and eventually loyal customers. They are the beginning of a lifetime engagement. Yet, the average conversion rate on websites is 2.35%, with contact forms garnering less than 3% conversions. In this session, we will give you a conversion boost by reviewing what the top 10% of websites are doing differently. With the help of Hexagon, we will share real-world implementations of similar experiences using Sitecore 9 forms and review their benefits with supportive analytics. Expect to leave this session with a renewed vision for increasing leads and building lifelong customers on your website.
+
 
 ## Getting Started
 
@@ -122,3 +132,8 @@ What if I told you, you could build a Sitecore site in a couple of days? What if
 By Jeffrey Rondeau
 
 Learn how to maximize the content management experience for your users, ranging from basic features like tooltips and thumbnails to more advanced concepts, such as separating editing interfaces for your site frame and creating entire sections of content in one click by customizing branch templates.
+
+
+## Keynotes
+
+### [Closing Keynote](https://www.pscp.tv/w/1nAKEQaRzdXKL)
