@@ -15,12 +15,12 @@ Some items were not published by the Sitecore Publishing Service when I did a Pu
 
 ## Timeline
 
-1. I did a clasic Sitecore site smart publish in all languages on my HabitatHome demo instance (Sitecore 9 + Sitecore Experience Comemrce 9 + SPE + SXA + Many other modules + demo content = more than 100,000 items).
+1. I did a classic Sitecore site smart publish in all languages on my HabitatHome demo instance (Sitecore 9 + Sitecore Experience Commerce 9 + SPE + SXA + Many other modules + demo content = more than 100,000 items).
 2. After 3 hours and 15 minutes publishing more than 105,000 items, IIS decided it was time for the routine application pool recycle. Sitecore shutdowned with the message `HostingEnvironment initiated shutdown`.
 3. I got angry and decided to install the Sitecore Publishing Service and module version 3.1.1.
 4. I did a publish site in all languages. It took only 5 seconds! I was amazed. However, I did not check at that time, but it affected only 12 items.
 5. The published demo site that was supposed to work after publishing was still not working.
-6. To check if the publish worked correctly, I opened the Sitecore Desktop, switched to the web database, and opened the Content Editor. It displayed an exception so I was not able to use it.
+6. To check if the publish worked correctly, I opened the Sitecore Desktop, switched to the web database, and opened the Content Editor. It displayed an exception, so I was not able to use it.
     ```
     Server Error in '/' Application.
 
