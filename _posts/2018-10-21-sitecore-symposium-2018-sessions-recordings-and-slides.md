@@ -1,6 +1,6 @@
 ---
 title: Sitecore Symposium 2018 Sessions Recordings and Slides
-tags: [Sitecore, Symposium, Talk]
+tags: [Sitecore, Symposium, Conference]
 sharing:
   linkedin: Have you missed Sitecore Symposium or missed some sessions? This blog post is for you with the collection of public recordings and slide decks.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Helix and Sitecore JavaScript Services (JSS)
-tags: [Sitecore, Symposium, Helix, JSS, ESLint, React, Talk]
+tags: [Sitecore, Symposium, Helix, JSS, ESLint, React, Talk, Conference]
 sharing:
   linkedin: If you missed my Sitecore Symposium session on JavaScript Services and Helix, you should read my blog post and watch the recording!
 ---
