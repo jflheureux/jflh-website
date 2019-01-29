@@ -276,10 +276,12 @@ footer .copyright {
   font-family: Open Sans;
   text-align: center;
   margin-bottom: 0;
+  color: #444;
 }
 footer .theme-by {
   text-align: center;
   margin: 10px 0 0;
+  color: #444;
 }
 
 @media only screen and (min-width: 768px) {
@@ -333,7 +335,7 @@ footer .theme-by {
 }
 .post-preview .post-meta,
 .post-heading .post-meta {
-  color: #808080;
+  color: #707070;
   font-size: 18px;
   font-style: italic;
   margin: 0;
