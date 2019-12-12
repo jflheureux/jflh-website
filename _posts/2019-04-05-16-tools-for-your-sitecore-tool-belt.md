@@ -9,6 +9,8 @@ Do you want to work faster, get better experiences, execute complex tasks, debug
 
 This post is derived from my session at the 2019 Sitecore User Group Conference Europe (SUGCON EU).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w4Mag23yJFg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tools
 
 ### Installation
