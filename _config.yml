@@ -36,6 +36,7 @@ author:
   name: Jean-François L'Heureux
   github: jflheureux
   twitter: jflh
+  mastodon: https://mas.to/@jflh
   linkedin: in/jflheureux
   stackoverflow: 4891689/jflheureux
 
@@ -45,6 +46,7 @@ footer-links-active:
   facebook: false
   email: false
   twitter: true
+  mastodon: true
   github: true
   linkedin: true
   stackoverflow: true
