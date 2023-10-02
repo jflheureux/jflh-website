@@ -12,6 +12,9 @@ I spent the last 4 years working at Sitecore with hundreds of talented, passiona
 It is with pride and honor that I am bringing more than 9 years of Sitecore knowledge, and 11 years of Coveo knowledge to Fishtank Consulting. As the Director of Technology, I will be working closely with the technical team as well as with [Dan Cruickshank](https://www.linkedin.com/in/dancruickshank/), president, and [Derek Bairstow](https://www.linkedin.com/in/derek-bairstow-76a30729/), vice president. I will ensure the team maintains technical excellence. I will help every individual to grow their skills and talent. I will also participate in projects. All these responsibilities will get me to grow my own skills and get out of my comfort zone, which is one of the main reasons for this move. Other reasons include:
 
 - To work with my friend, and moustache brother, Dan Cruickshank;
+
+  ![Dan and Jeff at Sitecore Symposium 2022]({{ '/img/Dan_and_Jeff.jpg' | absolute_url }}){: .center-image }
+
 - To work again at a small company where everyone knows each other (like when I started at Coveo);
 - To participate in building Sitecore and Coveo solutions for real clients that will have an impact on their clients and visitors.
 
