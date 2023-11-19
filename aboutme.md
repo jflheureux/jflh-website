@@ -14,7 +14,7 @@ subtitle: Why you'd want to read my blog
 ![Jean-François L'Heureux headshot]({{ '/img/jflheureux.png' | absolute_url }}){: .center-image }
 
 <p style="text-align: justify;">
-  I am Jean-François L'Heureux. I've spent half of my life programming now, beginning when I was a teenager. I'm passionate about web programming. Mostly front-end but also back-end. Everyday, I try to learn more, become a better coder, and a better person. Keeping this blog active is the first step to motivate me to read more on my favorite subjects and put what I learn into practice by writing code.
+  I am Jean-François L'Heureux. I've spent more than half of my life programming, beginning when I was a teenager. I'm passionate about web development. Mostly front-end, but also back-end. Everyday, I try to learn more, become a better coder, and a better person. This blog motivates me to read more on my favorite subjects and put what I learn into practice by writing code.
 </p>
 
 <p style="text-align: justify;">
