@@ -3,7 +3,7 @@ title: Introducing Sitecore XM Cloud Extensions
 tags: [Sitecore, XM Cloud]
 ---
 
-I am very happy to introduce my latest project: Sitecore XM Cloud Extensions. A browser extension that improves Sitecore XM Cloud user experience.
+I am very happy to introduce my latest project: [Sitecore XM Cloud Extensions](https://github.com/jflheureux/Sitecore-XM-Cloud-Extensions). A browser extension that improves Sitecore XM Cloud user experience.
 
 <!-- more -->
 
@@ -15,7 +15,7 @@ It is a work in progress with only one feature for the moment:
 
 - Connecting XM Cloud Pages to your local XM Cloud instance.
 
-In the future, I want to add other features that would help XM Cloud developers and users in their day to day tasks. Your suggestions are welcome.
+In the future, I want to add other features that would help XM Cloud developers and users in their day to day tasks. Your suggestions are welcome. I also want to add support for more browsers.
 
 You can check the project GitHub repository: [https://github.com/jflheureux/Sitecore-XM-Cloud-Extensions](https://github.com/jflheureux/Sitecore-XM-Cloud-Extensions)
 
