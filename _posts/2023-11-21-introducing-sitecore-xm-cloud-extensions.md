@@ -9,7 +9,7 @@ I am very happy to introduce my latest project: [Sitecore XM Cloud Extensions](h
 
 I had the idea to build a browser extension since I first [connected my local XM Cloud instance to Sitecore XM Cloud Pages by setting a local storage value](https://doc.sitecore.com/xmc/en/developers/xm-cloud/connect-xm-cloud-pages-to-your-local-xm-cloud-instance.html). A few weekends ago, I built the extension using React, [Chakra UI](https://chakra-ui.com/), and [Sitecore Blok](https://blok.sitecore.com/). Then, I submitted it to the Chrome Web Store.
 
-Today, the extension has been approved on the Chrome Web Store and is available to install: [https://chromewebstore.google.com/detail/pkonhbljhhbhbdjkacgmafheaebijmjh/](https://chromewebstore.google.com/detail/pkonhbljhhbhbdjkacgmafheaebijmjh/)
+Today, the extension has been approved on the Chrome Web Store and is available to install: [https://chromewebstore.google.com/detail/sitecore-xm-cloud-extensi/pkonhbljhhbhbdjkacgmafheaebijmjh](https://chromewebstore.google.com/detail/sitecore-xm-cloud-extensi/pkonhbljhhbhbdjkacgmafheaebijmjh)
 
 It is a work in progress with only one feature for the moment:
 
