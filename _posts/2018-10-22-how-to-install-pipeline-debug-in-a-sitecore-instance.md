@@ -76,6 +76,6 @@ Re-deploy the website project to the Sitecore instance. If the deployment method
 
 The Pipeline.Debug tool can now be accessed in a browser: **[scheme]**://**[host]**/sitecore/admin/pipelinedebug.html
 
-Replace **[scheme]** and **[host]** with the values of the Sitecore
+Replace **[scheme]** and **[host]** with the values of the Sitecore CM instance you are working with.
 
 An easy way to keep this address handy, is to add it to the links section of the [Sitecore Extensions](https://github.com/alan-null/sc_ext) browser plugin. That way, it can be opened for any Sitecore instance, as long as you deploy the files on it before.
