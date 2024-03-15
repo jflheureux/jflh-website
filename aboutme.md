@@ -30,4 +30,5 @@ subtitle: Why you'd want to read my blog
   I also have a lot of Coveo knowledge. I worked 11 and a half years at Coveo. Since, I have been awarded the Coveo MVP title in 2022, 2023, and 2024.
 </p>
 
+[![Coveo MVP 2024 Logo]({{ '/img/coveo_mvp_logo_2024.png' | absolute_url }}){: .award }](https://www.coveo.com/en/partners/mvp-program)
 [![Coveo MVP 2022 Logo]({{ '/img/coveo_mvp_logo_2022.png' | absolute_url }}){: .award }](https://www.coveo.com/en/partners/mvp-program)
